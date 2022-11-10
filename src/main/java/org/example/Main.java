@@ -13,6 +13,6 @@ public class Main {
     }
 
     public void stuff() {
-
+        // comment
     }
 }
