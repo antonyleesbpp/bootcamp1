@@ -9,4 +9,8 @@ public class Main {
         System.out.println("and again!");
         // another comment
     }
+
+    public void stuff() {
+
+    }
 }
