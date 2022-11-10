@@ -5,5 +5,7 @@ public class Main {
         // comment
         System.out.println("Hello world!");
         // more comments
+        System.out.println("Hello again!");
+        System.out.println("and again!");
     }
 }
