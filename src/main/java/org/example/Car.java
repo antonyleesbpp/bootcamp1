@@ -5,11 +5,11 @@ public class Car {
     /**
      *
      */
-    private String model;
+    private String carModel;
 
-    private String colour;
+    private String carColour;
     
-    private String make;
+    private String carMake;
 
 
 
